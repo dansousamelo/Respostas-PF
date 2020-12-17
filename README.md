@@ -27,3 +27,7 @@ N;Zzzz;99999999;12
 Saída:
 
 ```[{'id': '3', 'nome': 'Alice', 'telefone': '6122223331', 'idade': '21'}, {'id': '4', 'nome': 'Antônio', 'telefone': '6155555666', 'idade': '22'}, {'id': '2', 'nome': 'João', 'telefone': '123123123', 'idade': '19'}, {'id': '1', 'nome': 'Maria', 'telefone': '123123124', 'idade': '22'}]```
+
+## Execução
+Para executar basta rodar, por exemplo:
+```python3 Q1,py```
