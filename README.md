@@ -30,4 +30,4 @@ Saída:
 
 ## Execução
 Para executar basta rodar, por exemplo:
-```python3 Q1,py```
+```python3 Q1.py```
